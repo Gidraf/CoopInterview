@@ -1,0 +1,38 @@
+.item{
+    background-color: #D5E1DE;
+    width: 300px;
+    margin: 0 auto;
+    height: 120px;
+    border-radius: 10px;
+    padding: 0;
+}
+
+.dots {
+    background-color: #7AC143;
+    border: 1 solid blue;
+    width: 2rem;
+}
+
+.item-h {
+    padding: 16px;
+    /* height: 100%; */
+    
+}
+
+.item-text{
+    margin:0; 
+    color:#00513B;
+    font-size: 12px;
+}
+
+.item-btn {
+    width: 276px;
+    height: 32px;
+    margin-top: .5rem;
+    border-radius: 5px;
+    border: none;
+}
+
+/* .item-b {
+    display: flex;
+} */
